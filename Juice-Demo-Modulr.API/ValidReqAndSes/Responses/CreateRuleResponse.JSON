@@ -1,0 +1,24 @@
+{
+"type":"SWEEP",
+"name":"My rule",
+"accountId":"A120GEWR",
+"customerId":"C120DZSM",
+"data":
+	{
+	"destinationId":"B120BECH",
+	"frequency":"Daily",
+	"daysToRun":
+		[
+		"MONDAY",
+		"TUESDAY",
+		"WEDNESDAY",
+		"THURSDAY",
+		"FRIDAY",
+		"SATURDAY",
+		"SUNDAY"
+		],
+		"triggerBalance":200,
+		"balanceToLeave":200
+	},
+		"id":"R12009NA"
+}

@@ -1,0 +1,26 @@
+{
+  "address": 	{
+	"addressLine1":"2a",
+	"addressLine2":"The Quadrant",
+	"postTown":"Epsom",
+	"postCode":"KT17 4RH",
+	"country":"GB"
+	},
+  "birthDate": null,
+  "defaultReference": "Reference Message",
+  "destinationIdentifier": {
+    "accountNumber": "11275497",
+    "bic": "MODRGB2L",
+    "countrySpecificDetails": null,
+    "currency": "GBP",
+    "iban": null,
+    "sortCode": "160015",
+    "type": "SCAN"
+  },
+  "emailAddress": null,
+  "externalReference": "External Reference",
+  "idToReplace": null,
+  "name": "Beneficiary Account",
+  "phoneNumber": null,
+  "qualifier": null
+}

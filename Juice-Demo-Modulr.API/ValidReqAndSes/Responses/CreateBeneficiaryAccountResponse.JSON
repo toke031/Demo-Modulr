@@ -1,0 +1,28 @@
+{
+"id":"B120BEBQ",
+"name":"Beneficiary acc IBAN",
+"destinationIdentifier":
+	{
+	"type":"SCAN",
+	"accountNumber":"11131123",
+	"sortCode":"029412",
+	"bic":"MODRGB21",
+	"currency":"GBP"
+	},
+"defaultReference":"dnekiody",
+"status":"ACTIVE",
+"created":"2020-12-28T21:00:53.362+0000",
+"externalReference":"sdsffsds",
+"customerId":"C120DZSM",
+"updated":"2020-12-28T21:00:53.351+0000",
+"address":
+	{
+	"addressLine1":"2a",
+	"addressLine2":"The Quadrant",
+	"postTown":"Epsom",
+	"postCode":"KT17 4RH",
+	"country":"GB"
+	},
+"approvalStatus":"APPROVED",
+"accessGroups":[]
+}

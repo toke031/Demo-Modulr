@@ -1,0 +1,81 @@
+{
+"id":"C120DZSM",
+"name":"BULLEYN CONSULTANCY LTD",
+"type":"LLC",
+"status":"ACTIVE",
+"verificationStatus":"VERIFIED",
+"companyRegNumber":"12156206",
+"expectedMonthlySpend":40000,
+"registeredAddress":
+	{
+	"addressLine1":"2a",
+	"addressLine2":"The Quadrant",
+	"postTown":"Epsom",
+	"postCode":"KT17 4RH",
+	"country":"GB",
+	"id":56610112
+	},
+"tradingAddress":
+	{
+	"addressLine1":"2a",
+	"addressLine2":"The Quadrant",
+	"postTown":"Epsom",
+	"postCode":"KT17 4RH",
+	"country":"GB",
+	"id":56610212
+	},
+"associates":
+	[
+		{
+		"id":"S120EKHE",
+		"firstName":"Oliver",
+		"lastName":"Joshi",
+		"email":"someonemailaddress@gmail.com",
+		"phone":"+(44)6063424323",
+		"applicant":true,
+		"ownership":60,
+		"type":"DIRECTOR",
+		"dateOfBirth":"1987-12-15",
+		"verificationStatus":"VERIFIED",
+		"homeAddress":
+			{
+			"addressLine1":"2a",
+			"addressLine2":"The Quadrant",
+			"postTown":"Epsom",
+			"postCode":"KT17 4RH",
+			"country":"GB",
+			"id":56610312}
+			},
+		{
+		"id":"S120EKHF",
+		"firstName":"Oliver",
+		"lastName":"Joshi",
+		"email":"someonemailaddress@gmail.com",
+		"phone":"+(44)6063424323",
+		"applicant":false,
+		"ownership":60,
+		"type":"BENE_OWNER",
+		"dateOfBirth":"1987-12-16",
+		"verificationStatus":"VERIFIED",
+		"homeAddress":
+			{
+			"addressLine1":"2a",
+			"addressLine2":"The Quadrant",
+			"postTown":"Epsom",
+			"postCode":"KT17 4RH",
+			"country":"GB",
+			"id":56610412
+			}
+		}
+			
+			
+	],
+"industryCode":"84110",
+"tcsVersion":1,
+"createdDate":"2020-12-28T12:32:04.762+0000",
+"holdPaymentsForFunds":false,
+"cardConstraintsBid":"",
+"needAddressVerification":false,
+"accessGroupsVisible":false,
+"legalEntity":"GB"
+}

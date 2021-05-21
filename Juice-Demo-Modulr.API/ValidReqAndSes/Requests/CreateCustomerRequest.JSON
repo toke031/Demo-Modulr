@@ -1,0 +1,74 @@
+{
+  "id": null,
+  "companyRegNumber": "10085655",
+  "createdDate": "2017-01-28T01:01:01+0000",
+  "expectedMonthlySpend": 40000,
+  "externalReference": null,
+  "industryCode": "84110",
+  "legalEntity": "GB",
+  "name": "FOOTBALL SURVIVOR LIMITED",
+  "status": "ACTIVE",
+  "tcsVersion": 1,
+  "tradingAddress": {
+    "addressLine1": "2a",
+    "addressLine2": "The Quadrant",
+    "country": "GB",
+    "postCode": "KT17 4RH",
+    "postTown": "Epsom"
+  },
+  "registeredAddress": {
+    "addressLine1": "2a",
+    "addressLine2": "The Quadrant",
+    "country": "GB",
+    "postCode": "KT17 4RH",
+    "postTown": "Epsom"
+  },
+  "type": "LLC",
+  "verificationStatus": "UNVERIFIED",
+  "delegate": null,
+  "associates": [
+    {
+      "id": null,
+      "applicant": true,
+      "dateOfBirth": "1987-12-15",
+      "ownership": 60,
+      "phone": "06063424323",
+      "type": "DIRECTOR",
+      "verificationStatus": "UNVERIFIED",
+      "email": "someonemailaddress@gmail.com",
+      "firstName": "Oliver",
+      "middleName": null,
+      "lastName": "Joshi",
+      "documentInfo": null,
+      "homeAddress": {
+        "addressLine1": "2a",
+        "addressLine2": "The Quadrant",
+        "country": "GB",
+        "postCode": "KT17 4RH",
+        "postTown": "Epsom"
+      }
+    },
+    {
+      "id": null,
+      "applicant": false,
+      "dateOfBirth": "1987-12-16",
+      "ownership": 60,
+      "phone": "06063424323",
+      "type": "BENE_OWNER",
+      "verificationStatus": "UNVERIFIED",
+      "email": "someonemailaddress@gmail.com",
+      "firstName": "Oliver",
+      "middleName": null,
+      "lastName": "Joshi",
+      "documentInfo": null,
+      "homeAddress": {
+        "addressLine1": "2a",
+        "addressLine2": "The Quadrant",
+        "country": "GB",
+        "postCode": "KT17 4RH",
+        "postTown": "Epsom"
+      }
+    }
+  ],
+  "documentInfo": null
+}
